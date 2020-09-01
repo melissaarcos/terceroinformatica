@@ -1,4 +1,31 @@
+body
+{ 
+	background-color: pink; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;500&display=swap');
+.content{
+background-color: purple;
+color: pink;
+font-family: 'Lexend Peta', sans-serif;
+ }
+.contsecun{
+background-color: #00FFFF;
+color: blue;
+    font-family: 'Teko', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Teko:wght@300;500&display=swap');
+.contenten{
+background-color:lime;
+color: purple;
+    font-family: 'Lobster', cursive;
+}
 
-body{
-	background-color: pink;
+section{
+background: red;
+color:white;
+
+text-decoration: underline;
+text-align-last: center; 
+
 }
