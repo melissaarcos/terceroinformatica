@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;500&display=swap');
+
 li{
-background-color: purple;
-color: pink;
+background-color:purple;
+color:purple;
 font-family: 'Lexend Peta', sans-serif;
 
 
@@ -14,8 +15,14 @@ font-family: 'Lexend Peta', sans-serif;
 li:hover{
 	background-color: black;
 	border-radius: 10px
-	
+}  
+
+ a{ text-decoration: none;
+ 	color:pink;
+ 	font-size: 20px
+
 }
+
 
 
 
